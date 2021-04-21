@@ -1,8 +1,8 @@
 {
   "name": "@magicdone/leetcode-cli",
-  "version": "2.6.2",
+  "version": "1.0.0",
   "description": "A cli tool to enjoy leetcode!",
-  "preferGlobal": "true",
+  "preferGlobal": true,
   "engines": {
     "node": ">=4"
   },
